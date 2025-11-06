@@ -40,7 +40,7 @@ Based on contemporary research, this prototype demonstrates how splitting these 
 ---
 
 
-## 🧰 Requirements
+## Requirements
 
 - Python ≥ 3.10  
 - PyTorch ≥ 2.1  
