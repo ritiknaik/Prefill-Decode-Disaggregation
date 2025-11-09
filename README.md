@@ -1,6 +1,14 @@
+<p align="center">
+ <img width=250px height=250px src="prefill-decode-logo.png" alt="Library logo"></a>
+</p>
+
+<h3 align="center">Prefill–Decode Disaggregation Prototype</h3>
+
+-------
+
 # Prefill–Decode Disaggregation Prototype
 
-**Benchmarking split vs. monolithic inference for large language models**
+**Benchmarking decoupled vs. monolithic inference for large language models**
 
 ---
 
